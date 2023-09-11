@@ -9,4 +9,4 @@ Chinese dialogs for test in music/book/tech domain: other_domains/music.test.txt
 
 data format
 
-each line is a sample, context and response are separated with '<SEP>'
+each line is a sample, context and response are separated with '\<SEP\>'
